@@ -8,7 +8,7 @@ amidts **corona lockdown**.
 ## What this app does ?
 
 - This app contains a single page.
-- This app shows you the current time and greets you either "Good Morning", "Good Afternoon" or "Good Evening".
+- This app contains a list of Pizza and their contents, and an image of a *Dancing Pizza* 🍕
 
 ### How to run this app:
 
